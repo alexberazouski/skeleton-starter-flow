@@ -1,13 +1,13 @@
 /target/
-
-# IDEA
 .idea/
-*.iml
-
-# MacOS
-.DS_Store
-
-# Eclipse
+bower_components/
+node/
+node_modules/
+etc/
 .settings
-.classpath
 .project
+.classpath
+
+
+*.iml
+.DS_Store
